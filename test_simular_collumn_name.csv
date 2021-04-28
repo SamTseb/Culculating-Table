@@ -1,0 +1,4 @@
+,A,B,Cell,CellKeks
+1,1,=Cell30+0,1,0
+2,2,=A1+Cell30,0,10
+30,0,=B1+A1,=A1+5,=CellKeks1+CellKeks2
